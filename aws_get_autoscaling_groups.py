@@ -1,3 +1,4 @@
+#Before run the script make sure you've configured AWS credentials properly
 import boto3
 from boto3.session import Session
 
